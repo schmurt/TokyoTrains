@@ -6,3 +6,6 @@ A CSV of the dataset
 
 ## map.html
 An interactive map with every station plotted
+
+## map_image.png
+An image of map.html
