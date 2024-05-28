@@ -4,3 +4,5 @@ A dataset of every station in Tokyo prefecture, the lines going through them, an
 ## tokyo_stations_dataset.csv
 A CSV of the dataset
 
+## map.html
+An interactive map with every station plotted
