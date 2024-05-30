@@ -9,3 +9,6 @@ An interactive map with every station plotted
 
 ## map_image.png
 An image of map.html
+
+## tokyo_stations_analysis.r
+Data visualizations with R
